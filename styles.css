@@ -47,6 +47,10 @@ li {
     font-weight: bold;
 }
 
-.fave{
+.fave {
     color: orangered;
+}
+
+.pizza {
+    width: 50%;
 }
